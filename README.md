@@ -97,7 +97,7 @@ The previous working directory as set by the **cd** command.
 
 ```
 $ echo "echo $OLDPWD" | ./hsh
-/home/projects/alx/printf
+/home/projects/alx/
 ```
 
 #### PATH
@@ -326,4 +326,4 @@ $
 
 👤 **OMAKU FESTUS FRIDAY**
 
-- GitHub: [@](https://github.com/makterince)
+- GitHub: [@makterince](https://github.com/makterince)
