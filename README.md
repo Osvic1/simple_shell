@@ -322,7 +322,7 @@ $
 
 👤 **TIMOTHY VICTOR**
 
-- GitHub: [@Osvic1] (https://github.com/Osvic1)
+- GitHub: [@Osvic1](https://github.com/Osvic1)
 
 👤 **OMAKU FESTUS FRIDAY**
 
